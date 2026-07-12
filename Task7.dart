@@ -1,4 +1,5 @@
 void main() {
-  var university = "University of Centeral Punjab.";
-  print("University: $university");
+  int marks = 70;
+  marks += 15;
+  print("Marks: $marks");
 }

@@ -1,4 +1,5 @@
-/*void main() {
-  const number = 92;
-  print(number);
-}*/
+void main() {
+  double price = 999.0;
+  price /= 3;
+  print("Price: $price");
+}

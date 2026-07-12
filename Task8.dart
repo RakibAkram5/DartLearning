@@ -1,4 +1,5 @@
 void main() {
-  final cnic = 3520252774513;
-  print("CNIC: $cnic");
+  int money = 5000;
+  money -= 1200;
+  print("Remaining Money: $money");
 }

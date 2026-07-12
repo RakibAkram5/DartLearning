@@ -1,4 +1,7 @@
 void main() {
-  String city = "Lahore";
-  print("I live in $city");
+  int area;
+  int width = 8;
+  int length = 12;
+  area = width * length;
+  print("Area: $area");
 }

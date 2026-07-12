@@ -1,4 +1,5 @@
 void main() {
-  const number = 92;
-  print(number);
+  int salary = 30000;
+  salary *= 2;
+  print("Salary: $salary");
 }

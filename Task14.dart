@@ -1,6 +1,9 @@
 void main() {
-  int age = 24;
-  String city = "Lahore";
-  String name = "Rakib Akram";
-  print("Name: $name\n Age:$age\n City: $city");
+ 
+  int perimeter;
+  int width = 8;
+  int length = 12;
+  perimeter = 2*(width + length);
+
+  print("perimeter: $perimeter");
 }

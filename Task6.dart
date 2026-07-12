@@ -1,4 +1,8 @@
 void main() {
-  String city = "Lahore";
-  print("City: $city");
+  int a = 20;
+  int b = 3;
+
+  int integerDiv = a ~/ b;
+
+  print("$a ~/ $b = $integerDiv");
 }
