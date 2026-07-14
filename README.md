@@ -1,121 +1,247 @@
-# 🚀 Mission 180 - Full Stack App Developer Journey
+# 🚀 Mission 180 – Full Stack App Developer Journey
 
-## 📅 Progress
+Welcome to my **180-day coding journey**! 👋
 
-### ✅ Day 1 - Dart Basics
-**Topics Covered**
-- Introduction to Dart
-- print()
-- Comments
-- Variables
-- Data Types
-- Literals
-- Strings
-- String Interpolation
-- final
-- const
+My name is **Muhammad Rakib Akram**, and my goal is to become an **Industry-Ready Full Stack App Developer** before graduation. Throughout this journey, I will learn new technologies, solve programming problems, build real-world projects, and share my progress on GitHub every day.
 
-**Practice**
-- Solved 30 Beginner Programming Questions
+---
+
+# 🎯 Goals
+
+* 📚 Master Dart & Flutter
+* 🌐 Learn Backend Development (Node.js & Express.js)
+* 🗄️ Learn PostgreSQL & Firebase
+* 🤖 Integrate AI into mobile applications
+* 💻 Solve programming problems daily
+* 🚀 Build real-world projects
+* 📂 Maintain a professional GitHub portfolio
+* 🎓 Become job-ready before graduation
+
+---
+
+# 📅 Learning Progress
+
+## ✅ Day 1 – Dart Basics
+
+### 📚 Topics Covered
+
+* Introduction to Dart
+* print()
+* Comments
+* Variables
+* Data Types
+* Literals
+* Strings
+* String Interpolation
+* final
+* const
+
+### 💻 Practice
+
+* Solved **30 Beginner Programming Questions**
+
+### 🎯 Learning Outcome
+
+* Learned Dart syntax and basic programming concepts.
+* Understood variables and data types.
+* Practiced string interpolation.
+* Learned the difference between `final` and `const`.
 
 **Status:** ✅ Completed
 
 ---
 
-### ✅ Day 2 - Dart Operators
-**Topics Covered**
-- Arithmetic Operators (`+`, `-`, `*`, `/`, `~/`, `%`)
-- Assignment Operators (`=`, `+=`, `-=`, `*=`, `/=`)
-- Increment (`++`)
-- Decrement (`--`)
+## ✅ Day 2 – Dart Operators
 
-**Practice**
-- Solved 20 Operator-Based Questions
-- Built a Simple Calculator
+### 📚 Topics Covered
+
+* Arithmetic Operators
+* Assignment Operators
+* Increment & Decrement Operators
+
+### 💻 Practice
+
+* Solved **20 Operator-Based Programming Questions**
+* Built a Simple Calculator
+
+### 🎯 Learning Outcome
+
+* Performed mathematical operations.
+* Understood integer division and remainder.
+* Applied operators in practical programs.
 
 **Status:** ✅ Completed
 
 ---
 
-## 🎯 Overall Progress
-- ✅ Day 1 Completed
-- ✅ Day 2 Completed
-- ⏳ Day 3 Coming Soon
-# 🚀 Day 3 - User Input & Decision Making
+## ✅ Day 3 – User Input & Decision Making
 
-## 📚 Topics Covered
+### 📚 Topics Covered
 
-* ✅ User Input (`stdin.readLineSync()`)
-* ✅ `dart:io` Library
-* ✅ Type Casting
+* dart:io Library
+* User Input (`stdin.readLineSync()`)
+* Type Casting
+* `int.parse()`
+* `double.parse()`
+* if
+* if-else
+* else-if
+* switch
 
-  * `int.parse()`
-  * `double.parse()`
-* ✅ `if` Statement
-* ✅ `if-else`
-* ✅ `else-if`
-* ✅ `switch` Statement
-
-## 💻 Practice
+### 💻 Practice
 
 * Solved **30 Programming Questions**
-* Practiced taking input from the user
-* Converted `String` input into `int` and `double`
-* Solved decision-making problems using `if-else` and `switch`
-* Built simple console-based programs
+* Practiced user input and type conversion
+* Built interactive console applications
 
-## 🛠 Mini Projects
+### 🛠 Mini Projects
 
 * Student Information System
 * Week Day Finder
 * Basic Calculator
 * Grade Checker
 
-## 🎯 Learning Outcome
+### 🎯 Learning Outcome
 
-After completing Day 3, I can:
+* Took input from the user.
+* Converted strings into numbers.
+* Used conditional statements to solve problems.
+* Built interactive console applications.
 
-* Take input from the user.
-* Convert input into different data types.
-* Make decisions using conditional statements.
-* Use `switch` for multiple conditions.
-* Build simple interactive console applications.
-
-## 📂 Folder Structure
-
-```
-Day-03-User-Input/
-│── task01.dart
-│── task02.dart
-│── task03.dart
-│── ...
-│── task30.dart
-│── student_information.dart
-│── calculator.dart
-│── week_day.dart
-```
-
-## 📅 Progress
-
-* **Day:** 03 / 180
-* **Status:** ✅ Completed
+**Status:** ✅ Completed
 
 ---
 
-## 🌟 Mission 180
+## ✅ Day 4 – Loops
 
-I am on a 180-day journey to become an **Industry-Ready Full Stack App Developer**. Every day, I learn new concepts, solve coding problems, build mini projects, and upload my progress to GitHub.
+### 📚 Topics Covered
 
-### 📌 Tech Stack Progress
+* for Loop
+* while Loop
+* do-while Loop
+* break
+* continue
+* Nested Loops (Basic)
 
-* ✅ Day 1 – Dart Basics
-* ✅ Day 2 – Dart Operators
-* ✅ Day 3 – User Input & Decision Making
-* ⏳ Day 4 – Loops
+### 💻 Practice
+
+* Solved **30 Loop-Based Programming Questions**
+* Forward Counting
+* Reverse Counting
+* Even & Odd Numbers
+* Sum of Numbers
+* Multiplication Tables
+* Factorial
+* Count Digits
+* Reverse Number
+* Pattern Printing
+
+### 🛠 Mini Projects
+
+* Multiplication Table Generator
+* Number Analyzer
+
+### 🎯 Learning Outcome
+
+* Used loops efficiently.
+* Solved repetitive programming problems.
+* Applied loops in mathematical and logical problems.
+* Built console-based mini projects.
+
+**Status:** ✅ Completed
 
 ---
 
-**Author:** Muhammad Rakib Akram
+# 📊 Current Progress
 
-### 🌟 Goal
-My goal is to become an **Industry-Ready Full Stack App Developer** in 180 days by consistently learning, practicing, building projects, and uploading my progress to GitHub.
+| Day   | Topic                        | Status        |
+| ----- | ---------------------------- | ------------- |
+| Day 1 | Dart Basics                  | ✅ Completed   |
+| Day 2 | Dart Operators               | ✅ Completed   |
+| Day 3 | User Input & Decision Making | ✅ Completed   |
+| Day 4 | Loops                        | ✅ Completed   |
+| Day 5 | Functions                    | ⏳ Coming Soon |
+
+---
+
+# 📈 Statistics
+
+* ✅ **Days Completed:** 4 / 180
+* ✅ **Programming Questions Solved:** 110+
+* ✅ **Mini Projects Built:** 8+
+* 🔥 **Current Streak:** 4 Days
+
+---
+
+# 🛠 Tech Stack (Learning Journey)
+
+## Programming Languages
+
+* ✅ Dart (In Progress)
+* ⏳ JavaScript
+* ⏳ SQL
+
+## Mobile Development
+
+* ⏳ Flutter
+
+## Backend Development
+
+* ⏳ Node.js
+* ⏳ Express.js
+
+## Databases
+
+* ⏳ PostgreSQL
+* ⏳ Firebase
+
+## Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+---
+
+# 📂 Repository Structure
+
+```text
+Mission-180/
+│
+├── Day-01-Dart-Basics/
+├── Day-02-Dart-Operators/
+├── Day-03-User-Input/
+├── Day-04-Loops/
+├── README.md
+│
+└── More Days Coming Soon...
+```
+
+---
+
+# 🎯 Mission
+
+> Learn consistently, build projects, improve problem-solving skills, and become an **Industry-Ready Full Stack App Developer**.
+
+---
+
+# 👨‍💻 About Me
+
+**Muhammad Rakib Akram**
+
+* 🎓 BS Computer Science Student
+* 💙 Passionate about Mobile App Development
+* 📱 Learning Flutter
+* 🌐 Future Full Stack App Developer
+* 🚀 Building in Public through Mission 180
+
+---
+
+# ⭐ Connect With Me
+
+If you like this journey, feel free to **star this repository** and follow my progress.
+
+---
+
+> **"Small progress every day leads to big results."** 🚀
