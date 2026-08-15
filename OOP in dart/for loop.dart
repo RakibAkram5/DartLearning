@@ -18,25 +18,33 @@ void main() {
   // for(int i=0;i<5;i++){
   //   print("Student[$i]=[$i]");
   // }
-  List<int> number = [1, 2, 3, 4, 5];
-  for (int i = 0; i < 5; i++) {
-    print("Number: ${number[i]}");
-  }
-  print("First Element: ${number[0]}");
-  print("Last Element: ${number[4]}");
-  int length = number.length;
-  print("Length: $length");
-  number.add(10);
-  for (int i = 0; i < number.length; i++) {
-    print(number[i]);
-  }
-  number.addAll([20, 30, 40]);
-  for (int i = 0; i < number.length; i++) {
-    print(number[i]);
-  }
-  number.remove(1);
-   for (int i = 0; i < number.length; i++) {
-    print(number[i]);
-  }
+  // List<int> number = [1, 2, 3, 4, 5];
+  // for (int i = 0; i < 5; i++) {
+  //   print("Number: ${number[i]}");
+  // }
+  // print("First Element: ${number[0]}");
+  // print("Last Element: ${number[4]}");
+  // int length = number.length;
+  // print("Length: $length");
+  // number.add(10);
+  // for (int i = 0; i < number.length; i++) {
+  //   print(number[i]);
+  // }
+  // number.addAll([20, 30, 40]);
+  // for (int i = 0; i < number.length; i++) {
+  //   print(number[i]);
+  // }
+  // number.remove(1);
+  // for (int i = 0; i < number.length; i++) {
+  //   print(number[i]);
+  // }
+  // number[3] = 192;
+  // for (int i = 0; i < number.length; i++) {
+  //   print(number[i]);
+  // }
+  // number.removeAt(4);
+  // for (int i = 0; i < number.length; i++) {
+  //   print(number[i]);
+  // }
   
 }
