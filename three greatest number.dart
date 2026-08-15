@@ -12,6 +12,6 @@ void main() {
   } else if (number_2 > number_1 && number_2 > number_3) {
     print("$number_2 is greater Number.");
   } else {
-    print("$number_3 is greater number.");5
+    print("$number_3 is greater number.");
   }
 }
