@@ -1,0 +1,1 @@
+ Car(String brand, double speed) : super(brand, speed);
