@@ -1,4 +1,6 @@
 class Vehicle {
+  Vehicle(String s, double d);
+
   void start() {
     print("Vehicle is starting...");
   }
